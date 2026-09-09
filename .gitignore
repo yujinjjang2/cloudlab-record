@@ -1,0 +1,32 @@
+# Operating-system and Office temporary files
+Thumbs.db
+Desktop.ini
+~$*
+
+# Secrets, credentials, and local settings
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.enc
+settings.local.*
+
+# Build output and packaged artifacts
+target/
+build/
+dist/
+node_modules/
+*.class
+*.jar
+*.war
+*.zip
+
+# Original office/customer artifacts are not stored in this curated repository
+*.docx
+*.xlsx
+*.pptx
+*.pdf
+*.erwin
+
