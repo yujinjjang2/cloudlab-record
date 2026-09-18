@@ -4,4 +4,4 @@
 
 - `organization-registration/`: 조직·회사·조합 등록 및 연결 조건
 - `operations/website-content/`: 홈페이지 메뉴·페이지·정적 자산 변경
-
+- `access-management/`: 메뉴 권한 요청의 일괄 적용과 검증
